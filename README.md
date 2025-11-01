@@ -3,7 +3,7 @@ A Netflix homepage clone built using HTML and CSS, designed to replicate the off
 This project focuses on front-end design, responsiveness, and layout accuracy — ideal for learning and showcasing modern web design skills.
 
 🚀 Live Demo: 
-🔗View My Portfolio￼ https://01themanish.github.io/Netflix_Clone/
+🔗View Netflix_Clone:￼ https://01themanish.github.io/Netflix_Clone/
 
 🚀 Features:
 	•	Fully responsive Netflix-style homepage layout
