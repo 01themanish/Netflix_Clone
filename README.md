@@ -21,10 +21,10 @@ This project focuses on front-end design, responsiveness, and layout accuracy �
 	•	Media Queries — For responsive design
 
   This project helped me strengthen my understanding of:
-	•	Responsive web design principles
-	•	Positioning elements using Flexbox
-	•	Managing backgrounds, overlays, and videos
-	•	Creating a modern landing page without frameworks
+	•	Responsive web design principles.
+	•	Positioning elements using Flexbox.
+	•	Managing backgrounds, overlays, and videos.
+	•	Creating a modern landing page without frameworks.
 
 🧑‍💻 Author:
 Manish Kumar
