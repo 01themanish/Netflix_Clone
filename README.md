@@ -1,8 +1,11 @@
-📺 Netflix Clone
+📺 Netflix Clone:
 A Netflix homepage clone built using HTML and CSS, designed to replicate the official Netflix India landing page.
 This project focuses on front-end design, responsiveness, and layout accuracy — ideal for learning and showcasing modern web design skills.
 
-🚀 Features
+🚀 Live Demo: 
+🔗View My Portfolio￼ https://01themanish.github.io/Netflix_Clone/
+
+🚀 Features:
 	•	Fully responsive Netflix-style homepage layout
 	•	Modern UI with smooth alignment and spacing
 	•	Hero section with CTA (Get Started button)
@@ -11,7 +14,7 @@ This project focuses on front-end design, responsiveness, and layout accuracy �
 	•	Simple and clean footer layout
 	•	Designed purely using HTML and CSS
 
-  🛠️ Technologies Used
+  🛠️ Technologies Used:
 	•	HTML5 — For structure
 	•	CSS3 — For styling and responsiveness
 	•	Google Fonts — For typography
@@ -23,11 +26,11 @@ This project focuses on front-end design, responsiveness, and layout accuracy �
 	•	Managing backgrounds, overlays, and videos
 	•	Creating a modern landing page without frameworks
 
-🧑‍💻 Author
+🧑‍💻 Author:
 Manish Kumar
 MCA Student | Frontend Developer | Tech Enthusiast
 📧 [manishkr9341@example.com]
 
-📝 License
+📝 License:
 This project is for educational purposes only.
 Netflix’s name, logo, and brand are the property of Netflix, Inc.
